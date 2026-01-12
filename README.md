@@ -47,7 +47,7 @@ Try it now — load your own PDF or use the sample:
 
 英文👉 **[https://app.embedpdf.com](https://app.embedpdf.com)**
 
-中文👉 **[https://waterchestnut.github.io/embed-pdf-viewer](https://waterchestnut.github.io/embed-pdf-viewer)**
+中文👉 **[https://waterchestnut.github.io/embed-pdf-viewer-1x](https://waterchestnut.github.io/embed-pdf-viewer-1x)**
 
 ---
 
